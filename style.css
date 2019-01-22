@@ -37,7 +37,28 @@ input {
 	width: 100px;
 	background-color: #f4d142;
 	border: 1px solid black;
+	margin-bottom: 30px;
 }
+
+#laptop {
+	color: #f48f41;
+	margin-top: 15px;
+}
+
+#code {
+	color: #f48f41;
+	margin-top: 15px;
+}
+
+#money {
+	color: #f48f41;
+	margin-top: 15px;
+}
+
+p {
+	font-size: 20px;
+}
+
 
 
 
