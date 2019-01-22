@@ -59,8 +59,13 @@ p {
 	font-size: 20px;
 }
 
-
-
+#video {
+	border: 2px solid black;
+	width: 600px;
+	height: 450px;
+	margin-left: 300px;
+	margin-bottom: 30px;
+}
 
 
 
