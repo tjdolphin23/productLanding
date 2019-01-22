@@ -1,3 +1,8 @@
+body {
+	background-image: url("image/background.png");
+	font-family: 'Acme', sans-serif;
+}
+
 header {
 	display: inline;
 }
